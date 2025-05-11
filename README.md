@@ -4,8 +4,6 @@
 👀 I'm Interested In
 
 Building scalable, responsive, and accessible web applications.
-Exploring modern frontend frameworks, state management, and performance optimization.
-Creating seamless user experiences with clean, maintainable code.
 Contributing to open-source projects and collaborating with innovative teams.
 
 🌱 I'm Currently Learning
