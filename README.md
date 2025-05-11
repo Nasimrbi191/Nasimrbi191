@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Nasim! A passionate Frontend Developer with a love for crafting dynamic, user-friendly web applications using React.js and Next.js. I thrive on solving complex challenges and delivering pixel-perfect, performant interfaces.
+👋 Hi, I'm Nasim! A  Frontend Developer with a love for crafting dynamic, user-friendly web applications using React.js and Next.js. 
 👀 I'm Interested In
 
 Building scalable, responsive, and accessible web applications.
@@ -29,7 +29,6 @@ Portfolio: Soon
 
 Frontend: React.js, Next.js, TypeScript, Redux, Zustand, Tailwind CSS, Framer Motion
 Tools: Git, Webpack, Vite, ESLint, Prettier
-Testing: Jest, React Testing Library, Cypress
 Deployment: Vercel, Netlify, AWS
 
 📊 GitHub Stats
