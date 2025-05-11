@@ -27,8 +27,6 @@ LinkedIn: www.linkedin.com/in/nasim-rajabi-138784333
 Portfolio: Soon
 
 
-🛠️ Tech Stack
-
 Frontend: React.js, Next.js, TypeScript, Redux, Zustand, Tailwind CSS, Framer Motion
 Tools: Git, Webpack, Vite, ESLint, Prettier
 Testing: Jest, React Testing Library, Cypress
