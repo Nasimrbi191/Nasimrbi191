@@ -25,12 +25,3 @@ Email: nasim.web.develop@gmail.com
 LinkedIn: www.linkedin.com/in/nasim-rajabi-138784333
 Portfolio: Soon
 
-
-Frontend: React.js, Next.js, TypeScript, Redux, Zustand, Tailwind CSS, Framer Motion
-Tools: Git, Webpack, Vite, ESLint, Prettier
-Deployment: Vercel, Netlify, AWS
-
-📊 GitHub Stats
-
-
-💡 Let's build something amazing together! Feel free to explore my repositories, open an issue, or reach out for collaboration opportunities.
